@@ -159,7 +159,7 @@ elif menu == '📜 Certifications':
     with st.expander("HTML, CSS, Bootstrap"):
         st.write("Certified in static website development, responsive web design with Bootstrap and Flexbox.")
     
-    with st.expander("Python Programming,Machine Larning"):
+    with st.expander("Python Programming,Machine Learning"):
         st.write("Certified in Python programming, focusing on foundational and advanced programming concepts with machine learning algorithms.")
     
     with st.expander("Dynamic Website Design with JavaScript"):
