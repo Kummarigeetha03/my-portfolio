@@ -108,16 +108,16 @@ st.markdown("""
         }
             
         .footer {
-            font-size: 10px; /* Small font size */
-            text-align: center; /* Center the text */
-            margin-top: 20px; /* Margin for separation from the content */
-            padding: 10px 0; /* Padding for better spacing */
-            background-color: #f0f2f6; /* Background color for the footer */
+            font-size: 10px; 
+            text-align: center; 
+            margin-top: 20px; 
+            padding: 10px 0; 
+            background-color: #f0f2f6; 
             color : #333;
         }
         .footer a {
-            color: #2980b9; /* Link color */
-            text-decoration: none; /* Remove underline from links */
+            color: #2980b9; 
+            text-decoration: none; 
         }
     </style>
 """, unsafe_allow_html=True)
